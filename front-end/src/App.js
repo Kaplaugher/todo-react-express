@@ -49,7 +49,7 @@ class App extends Component {
                 </div>
                 <div className="add-box">
                     <input type="text" id="newStudent"/>
-                    <button onClick={this.addStudent}>Add Student</button>
+                    <button onClick={this.addStudent}>Add Students haha yeep yeep</button>
                     <p className="App-intro">
                         {theClassArray}
                     </p>

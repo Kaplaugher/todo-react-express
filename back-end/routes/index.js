@@ -27,9 +27,9 @@ router.post('/addStudent', (req,res,next)=>{
         res.json(results);
     })
   })
-  res.json([studentToAdd]);
 
-    })
+
+})
 
 
 module.exports = router;
